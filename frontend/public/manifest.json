@@ -1,0 +1,16 @@
+{
+  "short_name": "Jai Kisan",
+  "name": "జై కిసాన్ | Jai Kisan Weather & Advisory",
+  "icons": [
+    {
+      "src": "/leaf.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fafaf9",
+  "theme_color": "#16a34a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
